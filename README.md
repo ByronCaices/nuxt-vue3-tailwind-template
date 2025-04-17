@@ -1,0 +1,1 @@
+# nuxt-vue3-tailwind-template
